@@ -1,9 +1,3 @@
-function sum(op1, op2) {
-    return op1 + op2;
-}
-
-console.log(sum(2, 7));
-
 function sub(op1, op2) {
     return op1 - op2;
 }
